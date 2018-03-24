@@ -6,8 +6,8 @@ import ijson
 import requests
 
 
-intrinio.username = '4390cf48726f375b695c63a106b89741'
-intrinio.password = 'ffe0660154ce4f9b07f4916e7f6a9707'
+intrinio.username = 'YOUR USERNAME'
+intrinio.password = 'YOUR PASSWORD'
 base_url = 'https://api.intrinio.com'
 
 
